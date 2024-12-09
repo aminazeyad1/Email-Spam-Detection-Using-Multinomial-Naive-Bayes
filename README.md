@@ -1,0 +1,2 @@
+# Email-Spam-Detection-Using-Multinomial-Naive-Bayes
+This project implements a text classification system to detect spam emails using the Multinomial Naive Bayes algorithm, a probabilistic machine learning model particularly effective for text data. The dataset used for this project is the Email Spam Detection Dataset, containing labeled email messages categorized as either spam or ham (not spam).
